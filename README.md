@@ -10,7 +10,6 @@ _Projeto desenvolvido para o bootcamp LocalizaLabs React Developer_
 ## Sumário:
 [Sobre](#about) |
 [Rotas da aplicação](#routes) |
-[Regras de negócio](#rules) |
 [Informações](#informations)
 
 </div>
@@ -42,11 +41,8 @@ O projeto tem como objetivo ser um localizar de restaurantes de acordo com a loc
 
 #### :rocket: Execução
 
-```yarn dev```
-> Para rodar o projeto localmente .
-
 ```yarn start```
-> Automatizado para produção juntamente com o arquivo Procfile para o deploy no serviço de hospedagem do heroku.
+> Para rodar o projeto localmente .
 
 * * *
 
