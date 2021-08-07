@@ -18,7 +18,7 @@ _Projeto desenvolvido para o bootcamp LocalizaLabs React Developer_
 ## :bookmark_tabs: Sobre o projeto <a name="about"></a>
 
 Nesse projeto foi desenvolvido uma **Aplicação** utilizando a biblioteca **React** como ferramenta front-end e padronização de código com lint da airbnb.
-O projeto tem como objetivo ser um localizar de restaurantes de acordo com a localização do usuário.
+O projeto tem como objetivo localizar de restaurantes de acordo com a posição do usuário se encontra no mapa.
 
 <h3 align="center">
 
